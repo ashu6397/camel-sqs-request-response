@@ -1,0 +1,12 @@
+org/home/technology/controller/MessageController.java
+ org.home.technology.controller.MessageController
+org/home/technology/configuration/SQSClientConfiguration.java
+ org.home.technology.configuration.SQSClientConfiguration
+org/home/technology/Application.java
+ org.home.technology.Application
+org/home/technology/camel/routes/RequestResponse.java
+ org.home.technology.camel.routes.RequestResponse
+org/home/technology/camel/routes/ResponseRoute.java
+ org.home.technology.camel.routes.ResponseRoute
+org/home/technology/camel/routes/RequestRoute.java
+ org.home.technology.camel.routes.RequestRoute
